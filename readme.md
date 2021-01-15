@@ -26,4 +26,4 @@ python main.py
 
 Al ser un speed codding aun no he hecho la bateria de Testing por lo que faltaria para completar el proyecto
 
-- [] Bateria de Testing
+- [ ] Bateria de Testing
